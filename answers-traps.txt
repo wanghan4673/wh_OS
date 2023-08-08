@@ -1,0 +1,6 @@
+A1:a0-a7  a2
+A2:Failure to truly execute f  g:14:250d  addiw a0,a0,3
+A3:0x630
+A4:0x38
+A5:HE110 World  0x726c6400
+A6:x=3 y=1  Printf received two parameters, but actually needed three, and the last one was placed in the register a2
